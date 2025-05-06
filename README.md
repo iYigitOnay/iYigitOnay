@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm İhsan Yiğit Önay
-I'm a passionate Software Engineering student focused on front-end development, with a growing interest in back-end technologies. I love turning complex problems into simple, beautiful, and intuitive interfaces.
+I'm a passionate Software Engineering student focused on back-end development, with a growing interest in back-end technologies. I love turning complex problems into simple, beautiful, and intuitive interfaces.
 
 🚀 Currently learning: React, JavaScript, and leveling up my skills every day.
 🛠️ Comfortable with: HTML, CSS, JavaScript, Git, VS Code
