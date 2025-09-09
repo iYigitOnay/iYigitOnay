@@ -21,6 +21,9 @@ I'm a passionate Software Engineering student focused on back-end development, w
 ![](https://nirzak-streak-stats.vercel.app/?user=iYigitOnay&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iYigitOnay&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# <> LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yiegon?ext=activity)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iYigitOnay&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
